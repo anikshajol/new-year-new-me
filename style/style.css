@@ -90,3 +90,34 @@ main {
 .banner-list li {
   list-style-type: square;
 }
+
+/* myplans */
+
+.my-plans {
+  padding-top: 150px;
+}
+.title {
+  text-align: center;
+  padding-bottom: 55px;
+  color: #151414;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.my-plans-container {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.plan {
+  text-align: center;
+  padding: 10px;
+}
+
+.plans-title {
+  color: #151414;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}
